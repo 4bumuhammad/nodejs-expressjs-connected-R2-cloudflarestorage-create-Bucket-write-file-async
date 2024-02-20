@@ -29,15 +29,20 @@ instalasi expressjs:
 
 pastikan sebelumnya telah menginstall paket diperlukan yaitu :
 
-- aws-sdk client
+- aws-sdk client, dotenv
 
     - cara install
 
-        ❯ npm install @aws-sdk/client-s3
+            ❯ npm install @aws-sdk/client-s3
+
+            `#install locally (recommended)`
+
+            ❯ npm install dotenv --save
 
     - tampilkan list paket
     
         ❯ npm list
+
             ├── dotenv@16.0.3
 
             ├── express@4.18.0
