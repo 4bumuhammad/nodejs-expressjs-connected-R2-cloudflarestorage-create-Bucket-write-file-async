@@ -94,3 +94,8 @@ jalankan (command) :
         
 
 ---
+
+
+<p align="center">
+    <img src="./gambar-petunjuk/005_ss_R2-cloudflarestorage.png" alt="005_ss_R2-cloudflarestorage" style="display: block; margin: 0 auto;">
+</p>
